@@ -1,0 +1,14 @@
+{
+  "name": "kubekosh-tool",
+  "version": "4.1.1",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0"
+}
